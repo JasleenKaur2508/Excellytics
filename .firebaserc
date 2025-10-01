@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "excellytics-6cef2"
+  },
+  "targets": {
+    "excellytics-6cef2": {
+      "hosting": {
+        "production": [
+          "excellytics-6cef2"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
